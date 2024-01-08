@@ -1,0 +1,33 @@
+Request
+Method: POST
+URL: http://localhost/api/Customer/CreateCustomer
+
+
+GET all Customers (GET)
+ 
+Request:
+ 
+Method: GET
+URL: http://localhost/api/Customer/GetAllCustomers
+
+
+Update Customer(POST)
+ 
+Request:
+ 
+Method: POST
+URL: http://localhost/api/Customer/UpdateCustomer
+
+
+Delete Customer (DELETE)
+Request:
+ 
+Method: DELETE
+URL: http://localhost/api/Customer/DeleteCustomer/8af86b8d-024a-4f7e-9c6b-2f485b1d040a
+
+
+Active Orders by Customer (GET)
+Request:
+ 
+Method: GET
+URL: http://localhost/api/Customer/GetActiveOrdersByCustomer/8af86b8d-024a-4f7e-9c6b-2f485b1d040a
